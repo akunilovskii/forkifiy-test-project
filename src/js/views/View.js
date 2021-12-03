@@ -1,6 +1,5 @@
 import { CLIENT_RENEG_LIMIT } from 'tls';
 import icons from 'url:../../img/icons.svg';
-import { Fraction } from 'fractional';
 
 export default class View {
   _data;
